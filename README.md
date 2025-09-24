@@ -1,4 +1,4 @@
-# RobeSafe-UAH.github.io
+# RobeSafe
 
 The RobeSafe group at the University of Alcalá conducts exhaustive research on Perception Systems applied to the fields of Service Robotics and e-Safety. Our interest is focused on the application of Artificial Intelligence techniques (machine learning and deep learning) to the understanding of scenes, driver behavior and navigation of mobile robots, on embedded systems with real-time execution. The members of the group have been working since 2006 on numerous research projects, with public and private funding, related to robotics, intelligent vehicles and infrastructure monitoring systems. All these projects have covered both research into new techniques and their practical application. Technology transfer is a fundamental objective of the group and we collaborate with important companies related to robotics and automotive fields.
  
