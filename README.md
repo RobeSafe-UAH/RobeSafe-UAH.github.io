@@ -9,16 +9,11 @@ The RobeSafe group at the University of Alcalá conducts exhaustive research on 
 As a result of the projects carried out since our birth as a research group, the publication of articles in prestigious magazines and the reading of doctoral theses, we are a recognized group that has received numerous national and international awards. It is worth highlighting, for instance, the Institutional Lead Award 2019 from the IEEE Intelligent Transportation Systems (ITS) Society for the longstanding work of the group on "Perception systems applied to robotics, road infrastructures and intelligent vehicles".
 </p>
 <p align="justify">
-This group participates in the **RoboCity2030-DIH-CM project** (P2018/NMT- 4331), funded by Programas de actividades I+D (CAM), cofunded by EU Structural Funds.
+This group participates in the RoboCity2030-DIH-CM project (P2018/NMT- 4331), funded by Programas de actividades I+D (CAM), cofunded by EU Structural Funds.
 </p>
-
-
-## Videos
-
-[2019 IEEE ITS Institutional Lead Award for Robesafe Lab](https://youtu.be/9mR5qRkCWhg)
-
-[Presentación Grupo de Investigación RobeSafe](https://youtu.be/YJ7v3Z5wqsg)
 
 ## RRSS
 
 [Linkedin](https://es.linkedin.com/company/robesafe-research-group)
+
+[Youtube](https://www.youtube.com/@RobeSafe)
