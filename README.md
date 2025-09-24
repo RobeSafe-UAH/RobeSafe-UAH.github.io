@@ -11,4 +11,4 @@ This group participates in the RoboCity2030-DIH-CM project (P2018/NMT- 4331), fu
 
 [2019 IEEE ITS Institutional Lead Award for Robesafe Lab](https://youtu.be/9mR5qRkCWhg)
 
-
+[Linkedin](https://es.linkedin.com/company/robesafe-research-group)
